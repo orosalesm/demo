@@ -7,5 +7,7 @@ Markdown
 ### Demo
 
 *italic*
+
 **bold**
+
 ***bold anmd italic***
