@@ -10,4 +10,6 @@ Markdown
 
 **bold**
 
+__also bold__
+
 ***bold anmd italic***
