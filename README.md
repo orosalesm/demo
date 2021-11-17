@@ -8,8 +8,12 @@ Markdown
 
 *italic*
 
+__also italic__
+
 **bold**
 
 __also bold__
 
-***bold anmd italic***
+***bold and italic***
+
+___bold and italic___
